@@ -31,21 +31,20 @@ https://wago.io/BFADungeonTargetedSpells/68
 Weakaura - 'Food Flask etc'
 https://wago.io/TTZNwA8H6/13
 
-Weakaura - 'Holy Paladin (Full Package - 9.3
+Weakaura - 'Holy Paladin (Full Package - 9.3)'
 https://wago.io/90JhH8xk5/22
 
-Weakaura - 'Kaze ERT Timers Icons
+Weakaura - 'Kaze ERT Timers Icons'
 https://wago.io/n7l5uN3YM/16
 
-Weakaura - 'Mouse + gbcd
+Weakaura - 'Mouse + gbcd'
 https://wago.io/DDQ5lEH5U/1
-
-Weakaura - 'Raid Ability Timeline
-https://wago.io/RaidAbilityTimeline/52
-
-Weakaura - 'Combat timer & Group number
-https://wago.io/W8VdqKwSO
 
 Weakaura - 'Raid Ability Timeline'
 https://wago.io/RaidAbilityTimeline/52
 
+Weakaura - 'Combat timer & Group number'
+https://wago.io/W8VdqKwSO
+
+Weakaura - 'Raid Ability Timeline'
+https://wago.io/RaidAbilityTimeline/52
