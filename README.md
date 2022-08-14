@@ -32,10 +32,10 @@ Elvui - Profile
 https://raw.githubusercontent.com/So1ene/wow-9.3/main/elvui%20-%20profile.txt
 
 Elvui - Private (Character Settings)
-https://raw.githubusercontent.com/So1ene/wow-9.3/main/elvui%20-%20private%20(character%20settings.txt
+https://raw.githubusercontent.com/So1ene/wow-9.3/main/elvui%20-%20private%20character%20settings.txt
 
 Elvui - Global (Account Settings)
-https://raw.githubusercontent.com/So1ene/wow-9.3/main/elvui%20-%20global%20(account%20settings.txt
+https://raw.githubusercontent.com/So1ene/wow-9.3/main/elvui%20-%20global%20account%20settings.txt
 
 Elvui - Aura Filters
 https://raw.githubusercontent.com/So1ene/wow-9.3/main/elvui%20-%20aura-filters.txt
