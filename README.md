@@ -2,25 +2,25 @@
 ELVUI
 
 Elvui - Profile
-https://raw.githubusercontent.com/So1ene/wow-9.3/main/elvui%20-%20profile.txt
+https://raw.githubusercontent.com/So1ene/wow-9.2.5/main/elvui%20-%20profile.txt
 
 Elvui - Private (Character Settings)
-https://raw.githubusercontent.com/So1ene/wow-9.3/main/elvui%20-%20private%20character%20settings.txt
+https://raw.githubusercontent.com/So1ene/wow-9.2.5/main/elvui%20-%20private%20character%20settings.txt
 
 Elvui - Global (Account Settings)
-https://raw.githubusercontent.com/So1ene/wow-9.3/main/elvui%20-%20global%20account%20settings.txt
+https://raw.githubusercontent.com/So1ene/wow-9.2.5/main/elvui%20-%20global%20account%20settings.txt
 
 Elvui - Aura Filters
-https://raw.githubusercontent.com/So1ene/wow-9.3/main/elvui%20-%20aura-filters.txt
+https://raw.githubusercontent.com/So1ene/wow-9.2.5/main/elvui%20-%20aura-filters.txt
 
 Elvui - NamePlate Style Filters
-https://raw.githubusercontent.com/So1ene/wow-9.3/main/elvui%20-%20nameplate%20style%20filters.txt
+https://raw.githubusercontent.com/So1ene/wow-9.2.5/main/elvui%20-%20nameplate%20style%20filters.txt
 
 ----------
 GRID2
 
 Grid2 - Profile
-https://raw.githubusercontent.com/So1ene/wow-9.3/main/grid2%20-%20profile.txt
+https://raw.githubusercontent.com/So1ene/wow-9.2.5/main/grid2%20-%20profile.txt
 
 ----------
 WEAKAURAS
