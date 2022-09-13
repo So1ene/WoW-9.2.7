@@ -1,7 +1,7 @@
 ----------
 ELVUI
 
-Elvui - Profile
+Elvui - Profile - UI SCALING 'Large'
 https://raw.githubusercontent.com/So1ene/wow-9.2.5/main/elvui%20-%20profile.txt
 
 Elvui - Private (Character Settings)
@@ -48,3 +48,7 @@ https://wago.io/W8VdqKwSO
 
 Weakaura - 'Raid Ability Timeline'
 https://wago.io/RaidAbilityTimeline/52
+
+---
+![image](https://user-images.githubusercontent.com/62023521/189786115-03e546ee-6352-4404-9f70-50cc4d57d5fb.png)
+
