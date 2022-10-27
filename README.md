@@ -53,6 +53,7 @@ https://wago.io/RaidAbilityTimeline/52
 ![image](https://user-images.githubusercontent.com/62023521/189786115-03e546ee-6352-4404-9f70-50cc4d57d5fb.png)
 
 v2:
-![image](https://user-images.githubusercontent.com/62023521/198186560-331ff966-efb5-4c84-8100-0005d07a2942.png)
+![image](https://user-images.githubusercontent.com/62023521/198186685-c441adb6-3e2d-4c87-bfbd-0019234df757.png)
+
 
 
