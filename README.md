@@ -64,3 +64,6 @@ v3:
 Evoker:
 ![image](https://user-images.githubusercontent.com/62023521/202922708-e23dadeb-208b-4c7b-9aeb-63a1936e69b7.png)
 
+Paladin:
+![image](https://user-images.githubusercontent.com/62023521/205426323-4a04010c-9ee6-47d8-82b7-db62bfb3a99f.png)
+
